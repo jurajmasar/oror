@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "oror"
   gem.homepage = "http://github.com/jurajmasar/oror"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Alternative || operator}
+  gem.description = %Q{Get rid of value.present? ? value : alternative}
   gem.email = "mail@jurajmasar.com"
   gem.authors = ["Juraj Masar"]
   # dependencies defined in Gemfile
