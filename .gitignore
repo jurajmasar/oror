@@ -51,3 +51,4 @@ pkg
 .idea
 .document
 .editorconfig
+.rspec
