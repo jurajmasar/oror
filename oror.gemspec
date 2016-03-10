@@ -29,6 +29,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/oror.rb",
+    "oror.gemspec",
     "spec/oror_spec.rb"
   ]
   s.homepage = "http://github.com/jurajmasar/oror"
